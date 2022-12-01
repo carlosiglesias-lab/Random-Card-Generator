@@ -62,7 +62,7 @@ window.onload = function() {
     document.querySelector(".card").style.width = e.target.value + "px";
   });
   document.querySelector("#height").addEventListener("change", e => {
-    document.querySelector(".card").style.width = e.target.value + "px";
+    document.querySelector(".card").style.height = e.target.value + "px";
   });
 };
 /*/clic al botón -> NO FUNCIONA -> null
