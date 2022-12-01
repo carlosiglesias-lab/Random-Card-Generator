@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: darkgreen;
+  font-size: 7em;
+}
+.card {
+  width: 400px;
+  height: 600px;
+} /*
+.spade::before {
+  content: "♠";
+}
+/* .club, .heart  .diamond*/
